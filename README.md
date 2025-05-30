@@ -50,3 +50,7 @@ git push
 
 원하신 **"정석 연결 구조"**로 완성되었습니다.
 원격과 로컬 브랜치가 정확히 매칭되었고, 추적 브랜치도 설정되어 있어 이후 git pull, git push가 간단해집니다.
+
+---
+
+local dev > local main > repo main
